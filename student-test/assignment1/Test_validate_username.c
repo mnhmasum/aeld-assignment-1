@@ -28,4 +28,5 @@ void test_validate_my_username()
     );
 
     free(config_username);
+    
 }
