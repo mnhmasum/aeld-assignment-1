@@ -26,6 +26,7 @@ void test_validate_my_username()
         username,
         "Username from my_username() does not match /conf/username.txt"
     );
+    
 
     free(config_username);
 }
